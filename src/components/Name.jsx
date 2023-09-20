@@ -1,7 +1,7 @@
 import React from 'react'
 
 const fname = "Navneet";
-const lname = "Baranwal";
+const lname = "gupta";
 
 function Name(){
     return (
